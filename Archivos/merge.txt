@@ -1,0 +1,1 @@
+Porque la carpeta ya no está vacía y se ve reflejado en GitHub como un cambió en el repositorio para poder hacer un commit
