@@ -1,1 +1,1 @@
-No ocurrió ningún problema
+No permitia hacer un commit porque la carpeta estaba vacía
