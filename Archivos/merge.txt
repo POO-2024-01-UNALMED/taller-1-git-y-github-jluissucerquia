@@ -1,3 +1,6 @@
 Juan Luis Sucerquia Chanci
 20 años
 Desarrollar mis habilidades en programación y ser competente ante los posibles problemas en mi vida laboral
+Porque la carpeta ya no está vacía y se ve reflejado en GitHub como un cambió en el repositorio para poder hacer un commit
+
+Porque sucedería el error que pasó en el paso anterior 
